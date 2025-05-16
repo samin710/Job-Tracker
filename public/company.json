@@ -1,0 +1,306 @@
+[
+    {
+      "id": 1,
+      "name": "Unilever",
+      "logo": "https://i.ibb.co.com/1GwsgFPn/unilever-logo.png",
+      "location": "London, UK",
+      "website": "https://www.unilever.com",
+      "industry": "Consumer Goods",
+      "jobs": [
+        {
+          "id": "job-1",  
+          "title": "Brand Manager",
+          "bannerImage": "https://i.ibb.co.com/FqgqwzgF/unilever-banner.png",
+          "location": "London, UK",
+          "salary": "$80,000 - $100,000",
+          "jobType": "Full-time",
+          "description": "Drive and oversee the development of comprehensive brand strategies and marketing campaigns for flagship product lines, ensuring alignment with business goals, market trends, and consumer insights. Collaborate cross-functionally with product, design, and sales teams to enhance brand visibility, optimize market positioning, and foster long-term customer engagement.",
+          "requirements": [
+            "Bachelor's degree in Marketing or related field",
+            "5+ years of experience in brand management",
+            "Strong analytical and communication skills"
+          ]
+        },
+        {
+          "id": "job-2",
+          "title": "Supply Chain Analyst",
+          "bannerImage": "https://i.ibb.co.com/FqgqwzgF/unilever-banner.png",
+          "location": "Rotterdam, Netherlands",
+          "salary": "$70,000 - $90,000",
+          "jobType": "Full-time",
+          "description":"Analyze, design, and implement improvements across the entire supply chain to enhance operational efficiency, reduce lead times, and lower costs. Leverage data analytics and industry best practices to identify inefficiencies, forecast demand, optimize inventory levels, and improve supplier performance. Collaborate with cross-functional teams to ensure seamless procurement, production, and distribution processes that align with business objectives and customer expectations.",
+          "requirements": [
+            "Bachelor's degree in Supply Chain Management or related field",
+            "3+ years of experience in supply chain analysis",
+            "Proficiency in data analysis tools"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Adobe",
+      "logo": "https://i.ibb.co.com/Tqwd7XY5/abode-logo.png",
+      "location": "San Jose, CA, USA",
+      "website": "https://www.adobe.com",
+      "industry": "Software",
+      "jobs": [
+        {
+          "id": "job-3",
+          "title": "Software Engineer",
+          "bannerImage": "https://i.ibb.co.com/yF8h68MT/abode-banner.jpg",
+          "location": "San Jose, CA",
+          "salary": "$100,000 - $130,000",
+          "jobType": "Full-time",
+          "description": "Design, develop, and maintain innovative features and enhancements across Adobe’s suite of industry-leading software products. Collaborate with cross-functional teams to ensure high performance, usability, and scalability, while continuously improving code quality, fixing bugs, and staying aligned with evolving user needs and technology trends.",
+          "requirements": [
+            "Bachelor's degree in Computer Science or related field",
+            "4+ years of software development experience",
+            "Proficiency in C++ and Java"
+          ]
+        },
+        {
+          "id": "job-4",
+          "title": "UX Designer",
+          "bannerImage": "https://i.ibb.co.com/yF8h68MT/abode-banner.jpg",
+          "location": "Remote",
+          "salary": "$85,000 - $105,000",
+          "jobType": "Full-time",
+          "description": "Conceptualize and design intuitive, visually appealing, and responsive user experiences for Adobe's web applications, ensuring they are both user-friendly and aligned with Adobe's brand principles. Collaborate with product managers, engineers, and stakeholders to deliver seamless interfaces, conduct user research and testing, and iterate designs based on user feedback and analytics to enhance usability and accessibility.",
+          "requirements": [
+            "Bachelor's degree in Design or related field",
+            "3+ years of UX design experience",
+            "Proficiency in design tools like Sketch and Figma"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "logo": "https://i.ibb.co.com/hRgYm6Y5/googl-logo.png",
+      "location": "Mountain View, CA, USA",
+      "website": "https://www.google.com",
+      "industry": "Technology",
+      "jobs": [
+        {
+          "id": "job-5",
+          "title": "Product Manager",
+          "bannerImage": "https://i.ibb.co.com/ZpZPwSKy/googl-banner.png",
+          "location": "Mountain View, CA",
+          "salary": "$120,000 - $150,000",
+          "jobType": "Full-time",
+          "description": "Drive the product development lifecycle and lead strategic initiatives for Google’s core products, from ideation to execution. Collaborate with cross-functional teams, including engineering, design, and marketing, to define product vision, align with user needs, and deliver innovative solutions that enhance user experiences, scalability, and market competitiveness. Analyze market trends and user feedback to refine product roadmaps and ensure alignment with Google’s long-term business goals.",
+          "requirements": [
+            "Bachelor's degree in Business or related field",
+            "5+ years of product management experience",
+            "Strong leadership and communication skills"
+          ]
+        },
+        {
+          "id": "job-6",
+          "title": "Data Scientist",
+          "bannerImage": "https://i.ibb.co.com/ZpZPwSKy/googl-banner.png",
+          "location": "New York, NY",
+          "salary": "$110,000 - $140,000",
+          "jobType": "Full-time",
+          "description": "Examine and interpret complex, large-scale datasets to uncover meaningful trends, patterns, and insights that drive data-informed decision-making. Utilize advanced analytical tools and techniques to clean, process, and visualize data, providing actionable recommendations that support business objectives, optimize performance, and enhance strategic planning.",
+          "requirements": [
+            "Master's degree in Data Science or related field",
+            "3+ years of experience in data analysis",
+            "Proficiency in Python and SQL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Microsoft",
+      "logo": "https://i.ibb.co.com/TMJyX7S8/micro-logo.png",
+      "location": "Redmond, WA, USA",
+      "website": "https://www.microsoft.com",
+      "industry": "Technology",
+      "jobs": [
+        {
+          "id": "job-7",
+          "title": "Cloud Solutions Architect",
+          "bannerImage": "https://i.ibb.co.com/RkxdL7Zs/micro-banner.png",
+          "location": "Redmond, WA",
+          "salary": "$130,000 - $160,000",
+          "jobType": "Full-time",
+          "description": "Design and architect scalable, secure, and cost-effective cloud solutions tailored to the specific needs of enterprise clients. Collaborate with cross-functional teams to implement and optimize cloud infrastructure, ensuring seamless integration with existing systems, and provide ongoing support to improve efficiency, scalability, and performance. Leverage cloud technologies to deliver innovative solutions that align with business goals and enhance operational agility.",
+          "requirements": [
+            "Bachelor's degree in Computer Science or related field",
+            "5+ years of experience in cloud architecture",
+            "Expertise in Azure services"
+          ]
+        },
+        {
+          "id": "job-8",
+          "title": "Software Engineer",
+          "bannerImage": "https://i.ibb.co.com/RkxdL7Zs/micro-banner.png",
+          "location": "Seattle, WA",
+          "salary": "$100,000 - $130,000",
+          "jobType": "Full-time",
+          "description": "Design, develop, and maintain scalable software solutions tailored for Microsoft’s platforms, ensuring seamless integration with existing systems and optimized performance. Work closely with cross-functional teams to create robust, high-performance applications that align with business objectives, enhance user experiences, and leverage the latest advancements in cloud computing, AI, and other emerging technologies within the Microsoft ecosystem.",
+          "requirements": [
+            "Bachelor's degree in Computer Science or related field",
+            "3+ years of software development experience",
+            "Proficiency in C# and .NET framework"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Amazon",
+      "logo": "https://i.ibb.co.com/RkJ0N4qq/amazon-logo.png",
+      "location": "Seattle, WA, USA",
+      "website": "https://www.amazon.com",
+      "industry": "E-commerce",
+      "jobs": [
+        {
+          "id": "job-9",
+          "title": "Operations Manager",
+          "bannerImage": "https://i.ibb.co.com/0VsgGV6Z/amazon-banner.png",
+          "location": "Seattle, WA",
+          "salary": "$90,000 - $120,000",
+          "jobType": "Full-time",
+          "description": "Manage and optimize daily operations at Amazon’s fulfillment centers, ensuring efficient order processing, inventory management, and timely deliveries. Oversee logistics workflows, coordinate with cross-functional teams to streamline processes, monitor key performance metrics, and implement best practices to enhance operational efficiency, reduce costs, and maintain high customer satisfaction levels.",
+          "requirements": [
+            "Bachelor's degree in Business or related field",
+            "5+ years of operations management experience",
+            "Strong leadership and organizational skills"
+          ]
+        },
+        {
+          "id": "job-10",
+          "title": "Software Development Engineer",
+          "bannerImage": "https://i.ibb.co.com/0VsgGV6Z/amazon-banner.png",
+          "location": "Austin, TX",
+          "salary": "$100,000 - $130,000",
+          "jobType": "Full-time",
+          "description": "Design, develop, and implement scalable and high-performance software solutions for Amazon’s platforms, ensuring they meet the needs of millions of users. Collaborate with cross-functional teams to architect robust systems, integrate cutting-edge technologies, and optimize performance. Focus on creating innovative, efficient solutions that improve customer experience, drive business growth, and maintain reliability and scalability in Amazon's ever-evolving ecosystem.",
+          "requirements": [
+            "Bachelor's degree in Computer Science or related field",
+            "3+ years of software development experience",
+            "Proficiency in Java and Python"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Facebook",
+      "logo": "https://i.ibb.co.com/5XsTK18s/face-logo.png",
+      "location": "Menlo Park, CA, USA",
+      "website": "https://www.facebook.com",
+      "industry": "Social Media",
+      "jobs": [
+        {
+          "id": "job-11",
+          "title": "Data Engineer",
+          "bannerImage": "https://i.ibb.co.com/nM2kJ9vJ/face-banner.jpg",
+          "location": "Menlo Park, CA",
+          "salary": "$110,000 - $140,000",
+          "jobType": "Full-time",
+          "description": "Design, build, and maintain robust data pipelines for Facebook’s analytics platforms, ensuring seamless data flow from multiple sources to downstream systems. Leverage modern ETL (Extract, Transform, Load) tools and technologies to process, clean, and transform large datasets, enabling efficient analysis and real-time reporting. Collaborate with data scientists and engineers to optimize pipeline performance, improve data quality, and support data-driven decision-making across the organization.",
+          "requirements": [
+            "Bachelor's degree in Computer Science or related field",
+            "4+ years of data engineering experience",
+            "Proficiency in SQL and Python"
+          ]
+        },
+        {
+          "id": "job-12",
+          "title": "Product Designer",
+          "bannerImage": "https://i.ibb.co.com/nM2kJ9vJ/face-banner.jpg",
+          "location": "Remote",
+          "salary": "$90,000 - $120,000",
+          "jobType": "Full-time",
+          "description": "Create user-centric, intuitive, and visually appealing products for Facebook’s applications by conducting user research, analyzing feedback, and iterating on design solutions. Collaborate closely with product managers, engineers, and stakeholders to define product requirements, design seamless user interfaces, and ensure a cohesive user experience across all platforms. Prioritize usability, accessibility, and performance to deliver engaging products that meet user needs and enhance the overall Facebook experience.",
+          "requirements": [
+            "Bachelor's degree in Design or related field",
+            "3+ years of product design experience",
+            "Proficiency in design tools like Figma and Sketch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Tesla",
+      "logo": "https://i.ibb.co.com/MxsJTLdn/tesla-logo.png",
+      "location": "Palo Alto, CA, USA",
+      "website": "https://www.tesla.com",
+      "industry": "Automotive",
+      "jobs": [
+        {
+          "id": "job-13",
+          "title": "Mechanical Engineer",
+          "bannerImage": "https://i.ibb.co.com/wh75NkR4/tesla-banner.jpg",
+          "location": "Fremont, CA",
+          "salary": "$90,000 - $120,000",
+          "jobType": "Full-time",
+          "description": "Design, develop, and test mechanical systems for electric vehicles, focusing on optimizing performance, efficiency, and safety. Collaborate with cross-functional teams to ensure seamless integration of mechanical components with electrical systems, conduct simulations, and perform rigorous testing to validate designs. Continuously refine and innovate designs to meet industry standards, improve vehicle durability, and contribute to the advancement of sustainable automotive technologies.",
+          "requirements": [
+            "Bachelor's degree in Mechanical Engineering",
+            "3+ years of experience in mechanical design",
+            "Proficiency in CAD tools"
+          ]
+        },
+        {
+          "id": "job-14",
+          "title": "Autopilot Software Engineer",
+          "bannerImage": "https://i.ibb.co.com/wh75NkR4/tesla-banner.jpg",
+          "location": "Palo Alto, CA",
+          "salary": "$120,000 - $150,000",
+          "jobType": "Full-time",
+          "description": "Design, develop, and maintain cutting-edge autonomous driving software, ensuring high performance, reliability, and safety across various driving scenarios. Work with cross-disciplinary teams to integrate sensors, machine learning algorithms, and real-time data processing capabilities to enhance vehicle autonomy. Conduct rigorous testing and continuous improvements to optimize navigation, decision-making, and safety systems, adhering to industry standards and advancing the future of self-driving technology.",
+          "requirements": [
+            "Bachelor's or Master’s degree in Computer Science",
+            "4+ years of experience in AI/ML or autonomous systems",
+            "Proficiency in C++ and Python"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Netflix",
+      "logo": "https://i.ibb.co.com/tpJ52rn6/netflix-logo.png",
+      "location": "Los Gatos, CA, USA",
+      "website": "https://www.netflix.com",
+      "industry": "Entertainment",
+      "jobs": [
+        {
+          "id": "job-15",
+          "title": "Content Analyst",
+          "bannerImage": "https://i.ibb.co.com/93SQ2LvB/netflix-banner.png",
+          "location": "Los Gatos, CA",
+          "salary": "$85,000 - $110,000",
+          "jobType": "Full-time",
+          "description": "Analyze viewer behavior and trends using data analytics tools to provide insights that guide content strategy decisions. Monitor audience engagement, preferences, and viewing patterns across platforms, identify emerging content opportunities, and collaborate with content creators and marketing teams to optimize content production and distribution strategies, ensuring alignment with audience interests and business goals.",
+          "requirements": [
+            "Bachelor's degree in Business, Data Science, or related field",
+            "2+ years of experience in data analysis",
+            "Strong Excel and SQL skills"
+          ]
+        },
+        {
+          "id": "job-16",
+          "title": "Machine Learning Engineer",
+          "bannerImage": "https://example.com/jobs/netflix_ml_engineer.jpg",
+          "location": "Remote",
+          "salary": "$130,000 - $160,000",
+          "jobType": "Full-time",
+          "description": "Design and develop recommendation systems and personalization algorithms that deliver tailored user experiences based on individual preferences, behaviors, and interactions. Utilize machine learning techniques and data-driven approaches to create scalable, efficient systems that analyze large datasets, optimize content delivery, and improve user engagement across platforms. Continuously refine models to enhance accuracy, relevancy, and performance, driving higher user satisfaction and retention.",
+          "requirements": [
+            "Master's degree in Computer Science or related field",
+            "5+ years of experience in machine learning",
+            "Proficiency in Python, TensorFlow, and cloud platforms"
+          ]
+        }
+      ]
+    }
+  ]
