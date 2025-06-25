@@ -9,7 +9,7 @@
 
 ## 🧠 Overview
 
-Job Tracker is a job listing platform where applicants can browse jobs from multiple companies, view detailed job descriptions, and apply directly through the platform. It supports secure user authentication, password reset, and profile updates, providing a smooth and user-friendly experience.
+***Job Tracker*** is a job listing platform where applicants can browse jobs from multiple companies, view detailed job descriptions, and apply directly through the platform. It supports secure user authentication, password reset, and profile updates, providing a smooth and user-friendly experience.
 
 ---
 
