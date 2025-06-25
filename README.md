@@ -53,3 +53,14 @@ Job Tracker is a job listing platform where applicants can browse jobs from mult
   "react-toastify": "^11.0.5",
   "tailwindcss": "^4.1.5"
 }
+```
+
+---
+
+## 🛠 How to Run This Project Locally
+1. Clone the repository
+2. Install dependencies: npm install
+3. Create a .env file in the root directory and add your Firebase configuration (replace placeholders)
+4. npm run dev
+
+
