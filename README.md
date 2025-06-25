@@ -1,7 +1,5 @@
 # 🚀 Job Tracker
 
-**Job Tracker** is a web-based platform that helps job seekers explore and apply for jobs from various companies. Users can browse job listings, review detailed job requirements, and apply directly with secure authentication. The application also offers profile management and password recovery features for a seamless experience.
-
 ![Job Tracker Screenshot](https://i.ibb.co/SnJhWjT/job-tracker-screenshot.png) <!-- Replace this link with your own screenshot URL -->
 
 ## 🔗 Live Website
