@@ -28,7 +28,6 @@ Job Tracker is a job listing platform where applicants can browse jobs from mult
 
 ## 🚀 Key Features
 
-- 🔐 User Authentication (Email/Password & Google)
 - 🏢 Browse job listings from multiple companies
 - 📄 View detailed job descriptions and criteria
 - 📨 Apply directly to any job
