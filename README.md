@@ -1,6 +1,6 @@
 # 🚀 Job Tracker
 
-![Job Tracker Screenshot](https://i.ibb.co/SnJhWjT/job-tracker-screenshot.png) <!-- Replace this link with your own screenshot URL -->
+<!--![Job Tracker Screenshot](https://i.ibb.co/SnJhWjT/job-tracker-screenshot.png)--> <!-- Replace this link with your own screenshot URL -->
 
 ## 🔗 Live Website
 👉 [Job Tracker Live](https://job-tracker-41ddb.web.app/)
